@@ -20,14 +20,17 @@ IoT-Based Water Level Surveillance and Alert System is a project designed to tac
 * Additional Dependencies: Include libraries for sensor integration, Blynk compatibility, and network communication.
 
 ## System Architecture
+![image](https://github.com/user-attachments/assets/fc3c279f-5ef0-4f32-b70d-bf130cfcb1a0)
 
 
 ## Output
 
 #### Output1 - Real-Time Water Level Monitoring Interface
+![image](https://github.com/user-attachments/assets/ccb25c26-1411-4927-a8b4-9ab3a14f96b5)
 
 
 #### Output2 - Alert Notification for Critical Water Levels
+![image](https://github.com/user-attachments/assets/d16f2b68-a161-44a4-a3f2-212ec27d0866)
 
 Detection Accuracy: 98.2%
 
